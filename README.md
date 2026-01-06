@@ -8,5 +8,6 @@
 
 # Welcome to ENTR-451
 
-This is going to be the best classs!
+This is great!!
+
 
